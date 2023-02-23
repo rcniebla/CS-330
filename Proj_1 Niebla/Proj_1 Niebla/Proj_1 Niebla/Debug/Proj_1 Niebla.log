@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Snake\OneDrive\Documents\School\CS-330 Comp Graphic\Proj_1 Niebla\Proj_1 Niebla\Source.cpp(330,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Snake\OneDrive\Documents\School\CS-330 Comp Graphic\Proj_1 Niebla\Proj_1 Niebla\Source.cpp(464,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Snake\OneDrive\Documents\School\CS-330 Comp Graphic\Proj_1 Niebla\Proj_1 Niebla\Source.cpp(465,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Snake\OneDrive\Documents\School\CS-330 Comp Graphic\Proj_1 Niebla\Proj_1 Niebla\Source.cpp(469,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Snake\OneDrive\Documents\School\CS-330 Comp Graphic\Proj_1 Niebla\Proj_1 Niebla\Source.cpp(470,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Snake\OneDrive\Documents\School\CS-330 Comp Graphic\Proj_1 Niebla\Proj_1 Niebla\Source.cpp(472,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Snake\OneDrive\Documents\School\CS-330 Comp Graphic\Proj_1 Niebla\Proj_1 Niebla\Source.cpp(473,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Snake\OneDrive\Documents\School\CS-330 Comp Graphic\Proj_1 Niebla\Proj_1 Niebla\Source.cpp(487,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Snake\OneDrive\Documents\School\CS-330 Comp Graphic\Proj_1 Niebla\Proj_1 Niebla\Source.cpp(998,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Snake\OneDrive\Documents\School\CS-330 Comp Graphic\Proj_1 Niebla\Proj_1 Niebla\Source.cpp(1087,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Snake\OneDrive\Documents\School\CS-330 Comp Graphic\Proj_1 Niebla\Proj_1 Niebla\Source.cpp(1202,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Snake\OneDrive\Documents\School\CS-330 Comp Graphic\Proj_1 Niebla\Proj_1 Niebla\Source.cpp(1465,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Proj_1 Niebla.vcxproj -> C:\Users\Snake\OneDrive\Documents\School\CS-330 Comp Graphic\Proj_1 Niebla\Debug\Proj_1 Niebla.exe
